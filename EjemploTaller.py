@@ -31,3 +31,5 @@ def Global():
         except:
             print("Fallo en guardar")
         time.sleep(5)
+
+    
